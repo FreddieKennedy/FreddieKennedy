@@ -27,3 +27,4 @@ Polish UI layout
 Rewrite function Y
 Clean up codebase
 Improve logging
+Fix broken link
