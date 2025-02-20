@@ -23,3 +23,4 @@ Refactor core logic
 Tweak margin and padding
 Update API endpoint
 Add new utility script
+Polish UI layout
