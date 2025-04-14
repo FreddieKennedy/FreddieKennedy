@@ -25,3 +25,4 @@ Update API endpoint
 Add new utility script
 Polish UI layout
 Rewrite function Y
+Clean up codebase
