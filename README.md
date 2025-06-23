@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Fix broken link
 Optimize loop
 Remove unused imports
+Fix bug in feature X
